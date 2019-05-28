@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document mc:Ignorable="w14 wp14" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+	<w:body>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr/>
+				<w:drawing>
+					<wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="133350" distR="116840" distT="0" layoutInCell="1" locked="0" relativeHeight="4" simplePos="0">
+						<wp:simplePos x="0" y="0"/>
+						<wp:positionH relativeFrom="rightMargin">
+							<wp:posOffset>0</wp:posOffset>
+						</wp:positionH>
+						<wp:positionV relativeFrom="paragraph">
+							<wp:posOffset>-914400</wp:posOffset>
+						</wp:positionV>
+						<wp:extent cx="7560310" cy="1543050"/>
+						<wp:effectExtent b="0" l="0" r="0" t="0"/>
+						<wp:wrapNone/>
+						<wp:docPr descr="durham.jpg" id="1" name="Picture 1"/>
+						<wp:cNvGraphicFramePr>
+							<a:graphicFrameLocks noChangeAspect="1" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+						</wp:cNvGraphicFramePr>
+						<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+							<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+								<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+									<pic:nvPicPr>
+										<pic:cNvPr descr="durham.jpg" id="1" name="Picture 1"/>
+										<pic:cNvPicPr>
+											<a:picLocks noChangeArrowheads="1" noChangeAspect="1"/>
+										</pic:cNvPicPr>
+									</pic:nvPicPr>
+									<pic:blipFill>
+										<a:blip r:embed="rId2"/>
+										<a:stretch>
+											<a:fillRect/>
+										</a:stretch>
+									</pic:blipFill>
+									<pic:spPr bwMode="auto">
+										<a:xfrm>
+											<a:off x="0" y="0"/>
+											<a:ext cx="7560310" cy="1543050"/>
+										</a:xfrm>
+										<a:prstGeom prst="rect">
+											<a:avLst/>
+										</a:prstGeom>
+									</pic:spPr>
+								</pic:pic>
+							</a:graphicData>
+						</a:graphic>
+					</wp:anchor>
+				</w:drawing>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr/>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr/>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Titel"/>
+				<w:ind w:hanging="0" w:right="-897"/>
+				<w:rPr>
+					<w:color w:themeColor="accent4" w:themeShade="bf" w:val="5F497A"/>
+					<w:sz w:val="72"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:drawing>
+					<wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="133350" distR="114300" distT="0" layoutInCell="1" locked="0" relativeHeight="5" simplePos="0">
+						<wp:simplePos x="0" y="0"/>
+						<wp:positionH relativeFrom="column">
+							<wp:posOffset>-676275</wp:posOffset>
+						</wp:positionH>
+						<wp:positionV relativeFrom="paragraph">
+							<wp:posOffset>106680</wp:posOffset>
+						</wp:positionV>
+						<wp:extent cx="381000" cy="381000"/>
+						<wp:effectExtent b="0" l="0" r="0" t="0"/>
+						<wp:wrapNone/>
+						<wp:docPr descr="docx.png" id="2" name="Picture 2"/>
+						<wp:cNvGraphicFramePr>
+							<a:graphicFrameLocks noChangeAspect="1" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+						</wp:cNvGraphicFramePr>
+						<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+							<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+								<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+									<pic:nvPicPr>
+										<pic:cNvPr descr="docx.png" id="2" name="Picture 2"/>
+										<pic:cNvPicPr>
+											<a:picLocks noChangeArrowheads="1" noChangeAspect="1"/>
+										</pic:cNvPicPr>
+									</pic:nvPicPr>
+									<pic:blipFill>
+										<a:blip r:embed="rId3"/>
+										<a:stretch>
+											<a:fillRect/>
+										</a:stretch>
+									</pic:blipFill>
+									<pic:spPr bwMode="auto">
+										<a:xfrm>
+											<a:off x="0" y="0"/>
+											<a:ext cx="381000" cy="381000"/>
+										</a:xfrm>
+										<a:prstGeom prst="rect">
+											<a:avLst/>
+										</a:prstGeom>
+									</pic:spPr>
+								</pic:pic>
+							</a:graphicData>
+						</a:graphic>
+					</wp:anchor>
+				</w:drawing>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="accent4" w:themeShade="bf" w:val="5F497A"/>
+					<w:sz w:val="72"/>
+				</w:rPr>
+				<w:t>W</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="accent4" w:themeShade="bf" w:val="5F497A"/>
+					<w:sz w:val="72"/>
+				</w:rPr>
+				<w:t xml:space="preserve">ord </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="0"/>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="accent4" w:themeShade="bf" w:val="5F497A"/>
+					<w:sz w:val="72"/>
+				</w:rPr>
+				<w:t>2008</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="accent4" w:themeShade="bf" w:val="5F497A"/>
+					<w:sz w:val="72"/>
+				</w:rPr>
+			</w:r>
+			<w:commentRangeEnd w:id="0"/>
+			<w:r>
+				<w:commentReference w:id="0"/>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="accent4" w:themeShade="bf" w:val="5F497A"/>
+					<w:sz w:val="72"/>
+				</w:rPr>
+				<w:t xml:space="preserve">(docx) Sample File</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:rPr>
+					<w:rFonts w:ascii="Cambria" w:asciiTheme="majorHAnsi" w:cs="" w:cstheme="majorBidi" w:eastAsia="" w:eastAsiaTheme="majorEastAsia" w:hAnsi="Cambria" w:hAnsiTheme="majorHAnsi"/>
+					<w:i/>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:spacing w:val="5"/>
+					<w:kern w:val="2"/>
+					<w:sz w:val="52"/>
+					<w:szCs w:val="52"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="Cambria" w:cs="" w:cstheme="majorBidi" w:eastAsia="" w:eastAsiaTheme="majorEastAsia" w:hAnsi="Cambria"/>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:spacing w:val="5"/>
+					<w:kern w:val="2"/>
+					<w:sz w:val="52"/>
+					<w:szCs w:val="52"/>
+				</w:rPr>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:rPr>
+					<w:color w:themeColor="accent4" w:themeShade="bf" w:val="5F497A"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:color w:themeColor="accent4" w:themeShade="bf" w:val="5F497A"/>
+				</w:rPr>
+				<w:t>Created with Microsoft Office 2007 SP1</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:sectPr>
+					<w:type w:val="nextPage"/>
+					<w:pgSz w:h="16838" w:w="11906"/>
+					<w:pgMar w:bottom="1440" w:footer="0" w:gutter="0" w:header="0" w:left="1440" w:right="1440" w:top="1440"/>
+					<w:pgNumType w:fmt="decimal"/>
+					<w:formProt w:val="false"/>
+					<w:textDirection w:val="lrTb"/>
+					<w:docGrid w:charSpace="4096" w:linePitch="360" w:type="default"/>
+				</w:sectPr>
+			</w:pPr>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:rPr/>
+			</w:pPr>
+			<w:commentRangeStart w:id="1"/>
+			<w:r>
+				<mc:AlternateContent>
+					<mc:Choice Requires="wps">
+						<w:drawing>
+							<wp:anchor allowOverlap="1" behindDoc="1" distB="0" distL="114300" distR="92075" distT="0" layoutInCell="1" locked="0" relativeHeight="2" simplePos="0">
+								<wp:simplePos x="0" y="0"/>
+								<wp:positionH relativeFrom="column">
+									<wp:posOffset>1357630</wp:posOffset>
+								</wp:positionH>
+								<wp:positionV relativeFrom="paragraph">
+									<wp:posOffset>1277620</wp:posOffset>
+								</wp:positionV>
+								<wp:extent cx="2374265" cy="1019810"/>
+								<wp:effectExtent b="22225" l="0" r="22225" t="0"/>
+								<wp:wrapSquare wrapText="bothSides"/>
+								<wp:docPr id="3" name="Bild1"/>
+								<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+									<a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+										<wps:wsp>
+											<wps:cNvSpPr/>
+											<wps:spPr>
+												<a:xfrm>
+													<a:off x="0" y="0"/>
+													<a:ext cx="2373480" cy="1019160"/>
+												</a:xfrm>
+												<a:prstGeom prst="rect">
+													<a:avLst/>
+												</a:prstGeom>
+												<a:solidFill>
+													<a:srgbClr val="ffff99"/>
+												</a:solidFill>
+												<a:ln w="720">
+													<a:solidFill>
+														<a:srgbClr val="000000"/>
+													</a:solidFill>
+													<a:round/>
+												</a:ln>
+												<a:effectLst>
+													<a:outerShdw dir="2700000" dist="31115">
+														<a:srgbClr val="808080"/>
+													</a:outerShdw>
+												</a:effectLst>
+											</wps:spPr>
+											<wps:style>
+												<a:lnRef idx="0"/>
+												<a:fillRef idx="0"/>
+												<a:effectRef idx="0"/>
+												<a:fontRef idx="minor"/>
+											</wps:style>
+											<wps:txbx>
+												<w:txbxContent>
+													<w:p>
+														<w:pPr>
+															<w:pStyle w:val="Rahmeninhalt"/>
+															<w:spacing w:after="200" w:before="0"/>
+															<w:rPr/>
+														</w:pPr>
+														<w:r>
+															<w:rPr>
+																<w:rFonts w:cs="Tahoma"/>
+																<w:sz w:val="28"/>
+															</w:rPr>
+															<w:t>If you can see this file then you can open Word 2007 files from Blackboard</w:t>
+														</w:r>
+														<w:r>
+															<w:rPr>
+																<w:rFonts w:ascii="Tahoma" w:cs="Tahoma" w:hAnsi="Tahoma"/>
+																<w:sz w:val="28"/>
+															</w:rPr>
+															<w:t xml:space="preserve"/>
+														</w:r>
+														<w:r>
+															<w:rPr>
+																<w:rFonts w:ascii="Wingdings" w:cs="Wingdings" w:eastAsia="Wingdings" w:hAnsi="Wingdings"/>
+																<w:color w:val="FF0000"/>
+															</w:rPr>
+															<w:t></w:t>
+														</w:r>
+													</w:p>
+												</w:txbxContent>
+											</wps:txbx>
+											<wps:bodyPr>
+												<a:noAutofit/>
+											</wps:bodyPr>
+										</wps:wsp>
+									</a:graphicData>
+								</a:graphic>
+							</wp:anchor>
+						</w:drawing>
+					</mc:Choice>
+					<mc:Fallback>
+						<w:pict>
+							<v:rect ID="Bild1" fillcolor="#ffff99" id="shape_0" stroked="t" style="position:absolute;margin-left:106.9pt;margin-top:100.6pt;width:186.85pt;height:80.2pt">
+								<w10:wrap type="square"/>
+								<v:fill color2="#000066" o:detectmouseclick="t" type="solid"/>
+								<v:stroke color="black" endcap="flat" joinstyle="round" weight="720"/>
+								<v:shadow color="gray" obscured="f" on="t"/>
+								<v:textbox>
+									<w:txbxContent>
+										<w:p>
+											<w:pPr>
+												<w:pStyle w:val="Rahmeninhalt"/>
+												<w:spacing w:after="200" w:before="0"/>
+												<w:rPr/>
+											</w:pPr>
+											<w:r>
+												<w:rPr>
+													<w:rFonts w:cs="Tahoma"/>
+													<w:sz w:val="28"/>
+												</w:rPr>
+												<w:t>If you can see this file then you can open Word 2007 files from Blackboard</w:t>
+											</w:r>
+											<w:r>
+												<w:rPr>
+													<w:rFonts w:ascii="Tahoma" w:cs="Tahoma" w:hAnsi="Tahoma"/>
+													<w:sz w:val="28"/>
+												</w:rPr>
+												<w:t xml:space="preserve"/>
+											</w:r>
+											<w:r>
+												<w:rPr>
+													<w:rFonts w:ascii="Wingdings" w:cs="Wingdings" w:eastAsia="Wingdings" w:hAnsi="Wingdings"/>
+													<w:color w:val="FF0000"/>
+												</w:rPr>
+												<w:t></w:t>
+											</w:r>
+										</w:p>
+									</w:txbxContent>
+								</v:textbox>
+							</v:rect>
+						</w:pict>
+					</mc:Fallback>
+				</mc:AlternateContent>
+				<w:drawing>
+					<wp:anchor allowOverlap="1" behindDoc="0" distB="0" distL="133350" distR="123190" distT="0" layoutInCell="1" locked="0" relativeHeight="3" simplePos="0">
+						<wp:simplePos x="0" y="0"/>
+						<wp:positionH relativeFrom="column">
+							<wp:posOffset>-914400</wp:posOffset>
+						</wp:positionH>
+						<wp:positionV relativeFrom="paragraph">
+							<wp:posOffset>4152265</wp:posOffset>
+						</wp:positionV>
+						<wp:extent cx="619125" cy="3048000"/>
+						<wp:effectExtent b="0" l="0" r="0" t="0"/>
+						<wp:wrapNone/>
+						<wp:docPr descr="" id="5" name="Bild1"/>
+						<wp:cNvGraphicFramePr>
+							<a:graphicFrameLocks noChangeAspect="1" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+						</wp:cNvGraphicFramePr>
+						<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+							<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+								<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+									<pic:nvPicPr>
+										<pic:cNvPr descr="" id="5" name="Bild1"/>
+										<pic:cNvPicPr>
+											<a:picLocks noChangeArrowheads="1" noChangeAspect="1"/>
+										</pic:cNvPicPr>
+									</pic:nvPicPr>
+									<pic:blipFill>
+										<a:blip r:embed="rId4"/>
+										<a:stretch>
+											<a:fillRect/>
+										</a:stretch>
+									</pic:blipFill>
+									<pic:spPr bwMode="auto">
+										<a:xfrm>
+											<a:off x="0" y="0"/>
+											<a:ext cx="619125" cy="3048000"/>
+										</a:xfrm>
+										<a:prstGeom prst="rect">
+											<a:avLst/>
+										</a:prstGeom>
+									</pic:spPr>
+								</pic:pic>
+							</a:graphicData>
+						</a:graphic>
+					</wp:anchor>
+				</w:drawing>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="2"/>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>laoreet</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+			</w:r>
+			<w:commentRangeEnd w:id="2"/>
+			<w:r>
+				<w:commentReference w:id="2"/>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t xml:space="preserve">dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </w:t>
+			</w:r>
+			<w:commentRangeEnd w:id="1"/>
+			<w:r>
+				<w:commentReference w:id="1"/>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:rPr>
+					<w:i/>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+				</w:rPr>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:rPr>
+					<w:i/>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et </w:t>
+			</w:r>
+			<w:commentRangeStart w:id="3"/>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>iusto</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+			</w:r>
+			<w:commentRangeEnd w:id="3"/>
+			<w:r>
+				<w:commentReference w:id="3"/>
+			</w:r>
+			<w:r>
+				<w:rPr/>
+				<w:commentReference w:id="4"/>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t xml:space="preserve">odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. </w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:br w:type="column"/>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Epsum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. </w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>Souvlaki</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:numPr>
+					<w:ilvl w:val="1"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>Sou</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:numPr>
+					<w:ilvl w:val="2"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>S</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:numPr>
+					<w:ilvl w:val="2"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>O</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:numPr>
+					<w:ilvl w:val="2"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>U</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:numPr>
+					<w:ilvl w:val="1"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>Vlaki</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>Tzaziki</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="1"/>
+				</w:numPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>Carnevale</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="2"/>
+				</w:numPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>Reis</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="2"/>
+				</w:numPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>Brot</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:numPr>
+					<w:ilvl w:val="0"/>
+					<w:numId w:val="2"/>
+				</w:numPr>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>Milch</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:rPr>
+					<w:i/>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+				</w:rPr>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:rPr>
+					<w:i/>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Souvlaki ignitus carborundum e pluribus unum. Defacto lingo est igpay atinlay. Marquee selectus non provisio incongruous feline nolo contendre. </w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:rPr>
+					<w:i/>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+				</w:rPr>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:pPr>
+				<w:pStyle w:val="Normal"/>
+				<w:widowControl/>
+				<w:bidi w:val="0"/>
+				<w:spacing w:after="200" w:before="0" w:line="276" w:lineRule="auto"/>
+				<w:jc w:val="left"/>
+				<w:rPr/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:i/>
+					<w:color w:val="999999"/>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+					<w:lang w:val="la"/>
+				</w:rPr>
+				<w:t>Gratuitous octopus niacin, sodium glutimate. Quote meon an estimate et non interruptus stadium. Sic tempus fugit esperanto hiccup estrogen. Glorious baklava ex librus hup hey ad infinitum. Non sequitur condominium facile et geranium incognito.</w:t>
+			</w:r>
+		</w:p>
+		<w:sectPr>
+			<w:type w:val="continuous"/>
+			<w:pgSz w:h="16838" w:w="11906"/>
+			<w:pgMar w:bottom="1440" w:footer="0" w:gutter="0" w:header="0" w:left="1440" w:right="1440" w:top="1440"/>
+			<w:cols w:equalWidth="true" w:num="2" w:sep="false" w:space="708"/>
+			<w:formProt w:val="false"/>
+			<w:textDirection w:val="lrTb"/>
+			<w:docGrid w:charSpace="4096" w:linePitch="360" w:type="default"/>
+		</w:sectPr>
+	</w:body>
+</w:document>

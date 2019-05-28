@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:comments mc:Ignorable="w14 wp14" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+	<w:comment w:author="Unbekannter Autor" w:date="2019-01-17T11:57:02Z" w:id="0" w:initials="">
+		<w:p>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="Calibri" w:cs="" w:eastAsia="Calibri" w:hAnsi="Calibri"/>
+					<w:b w:val="false"/>
+					<w:bCs w:val="false"/>
+					<w:i w:val="false"/>
+					<w:iCs w:val="false"/>
+					<w:caps w:val="false"/>
+					<w:smallCaps w:val="false"/>
+					<w:strike w:val="false"/>
+					<w:dstrike w:val="false"/>
+					<w:outline w:val="false"/>
+					<w:shadow w:val="false"/>
+					<w:emboss w:val="false"/>
+					<w:imprint w:val="false"/>
+					<w:color w:val="auto"/>
+					<w:spacing w:val="0"/>
+					<w:w w:val="100"/>
+					<w:kern w:val="0"/>
+					<w:position w:val="0"/>
+					<w:sz w:val="20"/>
+					<w:sz w:val="20"/>
+					<w:szCs w:val="22"/>
+					<w:u w:val="none"/>
+					<w:vertAlign w:val="baseline"/>
+					<w:em w:val="none"/>
+					<w:lang w:bidi="ar-SA" w:eastAsia="en-US" w:val="en-GB"/>
+				</w:rPr>
+				<w:t>Dies ist die Jahreszahl in der Überschrift.</w:t>
+			</w:r>
+		</w:p>
+	</w:comment>
+	<w:comment w:author="Unbekannter Autor" w:date="2019-01-17T11:57:30Z" w:id="2" w:initials="">
+		<w:p>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="Calibri" w:cs="" w:eastAsia="Calibri" w:hAnsi="Calibri"/>
+					<w:b w:val="false"/>
+					<w:bCs w:val="false"/>
+					<w:i w:val="false"/>
+					<w:iCs w:val="false"/>
+					<w:caps w:val="false"/>
+					<w:smallCaps w:val="false"/>
+					<w:strike w:val="false"/>
+					<w:dstrike w:val="false"/>
+					<w:outline w:val="false"/>
+					<w:shadow w:val="false"/>
+					<w:emboss w:val="false"/>
+					<w:imprint w:val="false"/>
+					<w:color w:val="auto"/>
+					<w:spacing w:val="0"/>
+					<w:w w:val="100"/>
+					<w:kern w:val="0"/>
+					<w:position w:val="0"/>
+					<w:sz w:val="20"/>
+					<w:sz w:val="20"/>
+					<w:szCs w:val="22"/>
+					<w:u w:val="none"/>
+					<w:vertAlign w:val="baseline"/>
+					<w:em w:val="none"/>
+					<w:lang w:bidi="ar-SA" w:eastAsia="en-US" w:val="la"/>
+				</w:rPr>
+				<w:t>Dies ist ein Wort in Abschnitt1.</w:t>
+			</w:r>
+		</w:p>
+	</w:comment>
+	<w:comment w:author="Unbekannter Autor" w:date="2019-01-18T13:53:17Z" w:id="1" w:initials="">
+		<w:p>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="Calibri" w:cs="" w:cstheme="minorBidi" w:eastAsia="Calibri" w:eastAsiaTheme="minorHAnsi" w:hAnsi="Calibri"/>
+					<w:b w:val="false"/>
+					<w:bCs w:val="false"/>
+					<w:i w:val="false"/>
+					<w:iCs w:val="false"/>
+					<w:caps w:val="false"/>
+					<w:smallCaps w:val="false"/>
+					<w:strike w:val="false"/>
+					<w:dstrike w:val="false"/>
+					<w:outline w:val="false"/>
+					<w:shadow w:val="false"/>
+					<w:emboss w:val="false"/>
+					<w:imprint w:val="false"/>
+					<w:color w:val="auto"/>
+					<w:spacing w:val="0"/>
+					<w:w w:val="100"/>
+					<w:kern w:val="0"/>
+					<w:position w:val="0"/>
+					<w:sz w:val="20"/>
+					<w:szCs w:val="22"/>
+					<w:u w:val="none"/>
+					<w:vertAlign w:val="baseline"/>
+					<w:em w:val="none"/>
+					<w:lang w:bidi="ar-SA" w:eastAsia="en-US" w:val="en-GB"/>
+				</w:rPr>
+				<w:t>Dies ist Abschnitt1.</w:t>
+			</w:r>
+		</w:p>
+	</w:comment>
+	<w:comment w:author="Unbekannter Autor" w:date="2019-01-17T11:57:52Z" w:id="3" w:initials="">
+		<w:p>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="Calibri" w:cs="" w:eastAsia="Calibri" w:hAnsi="Calibri"/>
+					<w:b w:val="false"/>
+					<w:bCs w:val="false"/>
+					<w:i w:val="false"/>
+					<w:iCs w:val="false"/>
+					<w:caps w:val="false"/>
+					<w:smallCaps w:val="false"/>
+					<w:strike w:val="false"/>
+					<w:dstrike w:val="false"/>
+					<w:outline w:val="false"/>
+					<w:shadow w:val="false"/>
+					<w:emboss w:val="false"/>
+					<w:imprint w:val="false"/>
+					<w:color w:val="auto"/>
+					<w:spacing w:val="0"/>
+					<w:w w:val="100"/>
+					<w:kern w:val="0"/>
+					<w:position w:val="0"/>
+					<w:sz w:val="20"/>
+					<w:sz w:val="20"/>
+					<w:szCs w:val="22"/>
+					<w:u w:val="none"/>
+					<w:vertAlign w:val="baseline"/>
+					<w:em w:val="none"/>
+					<w:lang w:bidi="ar-SA" w:eastAsia="en-US" w:val="la"/>
+				</w:rPr>
+				<w:t>Dies ist ein Wort in Abschnitt2 in Spalte2.</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="Calibri" w:cs="" w:eastAsia="Calibri" w:hAnsi="Calibri"/>
+					<w:b w:val="false"/>
+					<w:bCs w:val="false"/>
+					<w:i w:val="false"/>
+					<w:iCs w:val="false"/>
+					<w:caps w:val="false"/>
+					<w:smallCaps w:val="false"/>
+					<w:strike w:val="false"/>
+					<w:dstrike w:val="false"/>
+					<w:outline w:val="false"/>
+					<w:shadow w:val="false"/>
+					<w:emboss w:val="false"/>
+					<w:imprint w:val="false"/>
+					<w:color w:val="auto"/>
+					<w:spacing w:val="0"/>
+					<w:w w:val="100"/>
+					<w:kern w:val="0"/>
+					<w:position w:val="0"/>
+					<w:sz w:val="20"/>
+					<w:szCs w:val="22"/>
+					<w:u w:val="none"/>
+					<w:vertAlign w:val="baseline"/>
+					<w:em w:val="none"/>
+					<w:lang w:bidi="ar-SA" w:eastAsia="en-US" w:val="la"/>
+				</w:rPr>
+				<w:t>Dies ist ein “Kommentar” mit &quot;Zeilenumbruch&quot;.</w:t>
+			</w:r>
+		</w:p>
+	</w:comment>
+	<w:comment w:author="Unbekannter Autor" w:date="2019-01-18T13:58:20Z" w:id="4" w:initials="">
+		<w:p>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="Calibri" w:asciiTheme="minorHAnsi" w:cs="" w:cstheme="minorBidi" w:eastAsia="Calibri" w:hAnsi="Calibri" w:hAnsiTheme="minorHAnsi"/>
+					<w:b w:val="false"/>
+					<w:bCs w:val="false"/>
+					<w:i/>
+					<w:iCs w:val="false"/>
+					<w:caps w:val="false"/>
+					<w:smallCaps w:val="false"/>
+					<w:strike w:val="false"/>
+					<w:dstrike w:val="false"/>
+					<w:outline w:val="false"/>
+					<w:shadow w:val="false"/>
+					<w:emboss w:val="false"/>
+					<w:imprint w:val="false"/>
+					<w:color w:val="auto"/>
+					<w:spacing w:val="0"/>
+					<w:w w:val="100"/>
+					<w:kern w:val="0"/>
+					<w:position w:val="0"/>
+					<w:sz w:val="16"/>
+					<w:szCs w:val="22"/>
+					<w:u w:val="none"/>
+					<w:vertAlign w:val="baseline"/>
+					<w:em w:val="none"/>
+					<w:lang w:bidi="ar-SA" w:eastAsia="en-US" w:val="la"/>
+				</w:rPr>
+				<w:t>Antwort auf Unbekannter Autor (17.01.2019, 11:57): &quot;</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="Calibri" w:asciiTheme="minorHAnsi" w:cs="" w:cstheme="minorBidi" w:eastAsia="Calibri" w:hAnsi="Calibri" w:hAnsiTheme="minorHAnsi"/>
+					<w:b w:val="false"/>
+					<w:bCs w:val="false"/>
+					<w:i/>
+					<w:iCs w:val="false"/>
+					<w:caps w:val="false"/>
+					<w:smallCaps w:val="false"/>
+					<w:strike w:val="false"/>
+					<w:dstrike w:val="false"/>
+					<w:outline w:val="false"/>
+					<w:shadow w:val="false"/>
+					<w:emboss w:val="false"/>
+					<w:imprint w:val="false"/>
+					<w:color w:val="auto"/>
+					<w:spacing w:val="0"/>
+					<w:w w:val="100"/>
+					<w:kern w:val="0"/>
+					<w:position w:val="0"/>
+					<w:sz w:val="16"/>
+					<w:szCs w:val="22"/>
+					<w:u w:val="none"/>
+					<w:vertAlign w:val="baseline"/>
+					<w:em w:val="none"/>
+					<w:lang w:bidi="ar-SA" w:eastAsia="en-US" w:val="la"/>
+				</w:rPr>
+				<w:t>Dies ist ein “Kommentar”&quot;</w:t>
+			</w:r>
+		</w:p>
+		<w:p>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="Liberation Serif" w:cs="DejaVu Sans" w:eastAsia="DejaVu Sans" w:hAnsi="Liberation Serif"/>
+					<w:sz w:val="20"/>
+					<w:szCs w:val="24"/>
+					<w:lang w:bidi="ar-SA" w:eastAsia="en-US" w:val="la"/>
+				</w:rPr>
+				<w:t>Ein Kommentar zu Deinem Kommentar.</w:t>
+			</w:r>
+		</w:p>
+	</w:comment>
+</w:comments>
