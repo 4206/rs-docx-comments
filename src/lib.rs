@@ -34,3 +34,5 @@ pub use docx::Docx;
 
 pub mod docx_comments;
 pub mod docx_numberings;
+pub mod docx_highlights;
+pub mod get_attr;

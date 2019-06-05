@@ -25,6 +25,8 @@ extern crate getopts;
 
 use dotext::*;
 use dotext::docx_comments::*;
+use dotext::docx_highlights::*;
+use dotext::docx_highlights::RangeId as HightlightRangeId;
 
 use getopts::Options;
 use std::env;
@@ -40,12 +42,13 @@ fn main(){
     //opts.optopt("o", "", "set output file name", "NAME");
     opts.optflag("c", "comments", "extract comments");
     opts.optflag("d", "commented", "extract ranges referenced by comments");
-    opts.optflag("h", "help", "print this help menu");
+    opts.optflag("h", "highlighted", "extract highlighted ranges");
+    opts.optflag("", "help", "print this help menu");
     let matches = match opts.parse(&args[1..]) {
         Ok(m) => { m }
         Err(f) => { panic!(f.to_string()) }
     };
-    if matches.opt_present("h") {
+    if matches.opt_present("help") {
         print_usage(&program_name, opts);
         return;
     }
@@ -56,37 +59,47 @@ fn main(){
         print_usage(&program_name, opts);
         return;
     };
-    // display both at once
-    if matches.opt_present("c") && matches.opt_present("d") {
-        let comments = Docx::open_comments(&input_path).expect("Cannot open file");
-        let commented = Docx::open_commented(&input_path).expect("Cannot open file");
-        for (i, (comment_i, commented_i)) in comments.iter().zip(commented.iter()).enumerate()
-        {
-            let cstring_comment_i   = escape_as_cstr(comment_i.text());
-            let cstring_commented_i = escape_as_cstr(commented_i.text());
-            println!("{} \"{}\" \"{}\"", i, cstring_comment_i, cstring_commented_i);
-        }
-        return;
-    }
+
+    let mut matched = false;
 
     if matches.opt_present("c") {
-        let comments = Docx::open_comments(input_path).expect("Cannot open file");
+        matched = true;
+        let comments = Docx::open_comments(&input_path).expect("Cannot open file");
         for (i,comment_i) in comments.iter().enumerate()
         {
             // TODO: escape doublequotes and newlines
+            let comment_id_i = comment_i.id();
             let cstring_comment_i = escape_as_cstr(comment_i.text());
-            println!("{} \"{}\"", i, cstring_comment_i);
+            println!("{} \"{}\"", comment_id_i, cstring_comment_i);
         }
-        return;
     }
+
     if matches.opt_present("d") {
-        let commented = Docx::open_commented(input_path).expect("Cannot open file");
+        matched = true;
+        let commented = Docx::open_commented(&input_path).expect("Cannot open file");
         for (i,comment_i) in commented.iter().enumerate()
         {
             // TODO: escape doublequotes and newlines
+            let commented_id_i = comment_i.id();
             let cstring_comment_i = escape_as_cstr(comment_i.text());
-            println!("{} \"{}\"", i, cstring_comment_i);
+            println!("{} \"{}\"", commented_id_i, cstring_comment_i);
         }
+    }
+
+    if matches.opt_present("h") {
+        matched = true;
+        let (stringtable,highlighted) = Docx::open_highlighted(&input_path).expect("Cannot open file");
+        for highlighted_i in highlighted.iter()
+        {
+            let h_id = highlighted_i.id();
+            let h_value = match stringtable.get(&h_id) { Some(color) => color, None => "??" };
+            let cstring_highlighted_i = escape_as_cstr(highlighted_i.text());
+            println!("{} \"{}\"", h_value, cstring_highlighted_i);
+        }
+    }
+
+    if ! matched {
+        print_usage(&program_name, opts);
         return;
     }
 }

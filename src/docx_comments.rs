@@ -17,6 +17,7 @@ use zip::read::ZipFile;
 use std::collections::HashMap;
 
 use ::Docx;
+use get_attr::GetAttr;
 
 pub struct DocxComment {
     id: usize,
@@ -27,9 +28,19 @@ pub trait Comment {
     fn text(&self) -> &str;
 }
 
+pub trait RangeId {
+    fn id(&self) -> usize;
+}
+
 impl Comment for DocxComment {
     fn text(&self) -> &str {
         self.data.as_str()
+    }
+}
+
+impl RangeId for DocxComment {
+    fn id(&self) -> usize {
+        self.id
     }
 }
 
@@ -175,6 +186,8 @@ fn read_comments<B: BufRead>(mut xml_reader: Reader<B>) -> io::Result<Vec<DocxCo
     Ok(par)
 }
 
+/*
+/// get an xml attribute by key and return is string value
 trait GetAttr {
     fn get_attr(&self, key:&[u8]) -> String;
 }
@@ -185,14 +198,20 @@ impl<'a> GetAttr for BytesStart<'a> {
         String::from_utf8(cstr.to_vec()).unwrap()
     }
 }
+*/
 
-
+/// Word allows comments to overlap on the text,
+/// this means that any given text can be quoted by multiple comments.
+/// The 'comment_ranges_open' collects the text ranges
+/// for all currently open comments while walking over the xml file
 fn read_commented<B: BufRead>(mut xml_reader: Reader<B>) -> io::Result<Vec<DocxComment>> {
 
     let mut buf = Vec::new();
     let mut txt = Vec::new(); // collection of text ranges within a contiguous comment range
     let mut par = Vec::new();
 
+    // map from comment_id -> buffer
+    // used for collecting text in multiple open comments
     let mut comment_ranges_open: HashMap<usize,String> = HashMap::new();
 
     fn attr_id(event: &BytesStart) -> usize {
@@ -203,12 +222,21 @@ fn read_commented<B: BufRead>(mut xml_reader: Reader<B>) -> io::Result<Vec<DocxC
         a_id
     }
 
+    let mut n_par = 0; // count paragraphs
+    let mut n_r   = 0; // count ranges (total, spanning over paragraphs)
+
     let mut to_read = false;
     loop {
         match xml_reader.read_event(&mut buf) {
             Ok(Event::Start(ref e)) => {
                 match e.name() {
-                    b"w:t" => { // entered a text section
+                    b"w:p" => {
+                        n_par += 1;
+                    }
+                    , b"w:r" => {
+                        n_r += 1;
+                    }
+                    , b"w:t" => { // entered a text section
                         to_read = comment_ranges_open.len() > 0;
                     }
                     , _ => ()
@@ -293,5 +321,15 @@ mod tests {
         let mut data = String::new();
         // TODO...
     }
+
+    // TODO: write a test that reads the sample...docx and checks for expected comments and commented
+
+    // TODO: write a test that reads a non-exisiting file and checks for the correct error message
+
+    // TODO: write a test that reads a text file (wrong format) and checks for the correct error message
+
+    // TODO: write a test for arabic comments with RTL text direction
+
+    // TODO: write a test for extracting highlighted parts from a file
 }
 */

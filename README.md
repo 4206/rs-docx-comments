@@ -22,8 +22,12 @@ Usage
 ------
 
 ```
-readdocx-comments [-c] [-d] [-n] filename
+readdocx-comments [-c] [-d] [-h] filename
 ```
 
 Option ```-c``` extracts the text inside the comments.
 Option ```-d``` extracts the text that the comments refer to.
+Option ```-h``` extracts highlighted text
+
+Output is in order of appearance; the leading numbers for ```-c``` and ```-d```
+are the comment id used in the xml document.
